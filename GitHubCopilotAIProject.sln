@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubCopilotAIProject.Server", "GitHubCopilotAIProject.Server\GitHubCopilotAIProject.Server.csproj", "{C80C9827-E207-4C7A-BB12-B1E4E764B208}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "githubcopilotaiproject.client", "githubcopilotaiproject.client\githubcopilotaiproject.client.esproj", "{974AA220-CA9E-4908-AC99-81C6DF237BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C80C9827-E207-4C7A-BB12-B1E4E764B208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80C9827-E207-4C7A-BB12-B1E4E764B208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80C9827-E207-4C7A-BB12-B1E4E764B208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80C9827-E207-4C7A-BB12-B1E4E764B208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974AA220-CA9E-4908-AC99-81C6DF237BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974AA220-CA9E-4908-AC99-81C6DF237BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974AA220-CA9E-4908-AC99-81C6DF237BAA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{974AA220-CA9E-4908-AC99-81C6DF237BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974AA220-CA9E-4908-AC99-81C6DF237BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974AA220-CA9E-4908-AC99-81C6DF237BAA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9342B0B2-7630-47E8-96D1-F4D185297E41}
+	EndGlobalSection
+EndGlobal
